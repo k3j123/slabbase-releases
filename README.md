@@ -30,6 +30,10 @@ Open it, follow the install steps, and sign in with your eBay account when the a
 
 The Windows installer is not code signed yet, so Windows may show a "protected your PC" warning. Click **More info**, then **Run anyway**. It is safe, and signing is on the way as more people start using the app.
 
+## Which games work best
+
+SlabBase is built for trading card games, starting with Pokémon. Pokémon scanning is fully tuned. Other games like Magic, Yu-Gi-Oh!, Lorcana and One Piece are in beta: scan them and the app asks you to confirm each match before it adds the card. Sports cards are not supported yet, but we would like to add them down the road.
+
 ## Updates
 
 Once SlabBase is installed it updates itself. When a new version is out you will see a prompt inside the app. There is no need to come back here.
